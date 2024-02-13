@@ -45,7 +45,7 @@ http://localhost:8080/api/transaction/rewards?beginDate=?&endDate=?
 
 example: http://localhost:8080/api/transaction/rewards?beginDate=2023-10-05&endDate=2024-01-31
 
-http://localhost:8080/transaction/rewards/{customerId}/beginData=?/endDate=?
+http://localhost:8080/api/transaction/rewards/{customerId}/beginData=?/endDate=?
 
 example: http://localhost:8080/api/transaction/rewards/20?beginDate=2023-10-05&endDate=2024-01-31
 
